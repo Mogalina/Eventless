@@ -1,4 +1,4 @@
-# Eventless-Project-2023
+# Eventless-Project
   The project is a SwiftUI-based iOS application that aims to provide users with a comprehensive event discovery and management platform. The app utilizes various components to create a seamless experience for users, combining interactive maps, event catalogues, and user profiles.
 
   The app's core functionality revolves around three primary tabs: Map, Book, and Profile. In the "Map" tab, users can explore a map view using the MapKit framework. The app leverages a custom MapViewRepresentable structure to display annotations corresponding to events retrieved from a database using the DatabaseManager. These annotations are dynamically updated and can be customized with icons and colors. Users can also activate a "Point to User Location" feature, which dynamically centers the map on the user's location.
